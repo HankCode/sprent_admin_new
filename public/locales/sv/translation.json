@@ -1,0 +1,49 @@
+{
+  "general": {
+    "language": {
+      "swedish": "Svenska",
+      "english": "Engelska"
+    },
+    "logout": "Logga ut",
+    "createOffer": "Skapa offert"
+  },
+  "housingRequests": {
+    "nav": "Förfrågningar",
+    "singular": "Förfrågan"
+  },
+  "landlords": {
+    "nav": "Hyresvärdar",
+    "singular": "Hyresvärd"
+  },
+  "hyra": {
+    "nav": "Hyra",
+    "heading": "Hitta boende",
+    "ingress": "Lätta att hyra boende över hela europa",
+    "description": "Vänligen fyll i formuläret och vi kommer att kontaktar dig så snart vi har ett förslag på din bostadsförfrågan",
+    "companyName": "Företagsnamn",
+    "phone": "Telefon",
+    "location": "Ort för boendet",
+    "headcount": "Antal personer",
+    "start": "Start för hyrestid",
+    "end": "Slut för hyrestid",
+    "budget": "Er budget i svenska kronor",
+    "send": "skicka",
+    "info": "Övrig information",
+    "date": "Datum / hyresperiod",
+    "email": "E-post",
+    "contact": "Kontaktperson",
+    "myname": "Ditt namn",
+    "companyPlaceholder": "S&P Bygg AB"
+  },
+  "hyraut": {
+    "nav": "Hyra ut",
+    "continue": "Fortsätt",
+    "finish": "Klar",
+    "heading": "Bli hyresvärd",
+    "ingress": "Hur kan jag bli en hyresvärd och hyra ut min lägenhet? <1>klicka här</1> för mer information",
+    "name": "Namn",
+    "email": "E-post",
+    "phone": "Telefon",
+    "houseType": "Typ av hus"
+  }
+}

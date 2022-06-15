@@ -1,0 +1,15 @@
+{
+  "title": "Welcome to react using react-i18next",
+  "hyra": {
+    "nav": "Request housing",
+    "heading": "Request housing",
+    "ingress": "Renting made easy all across Europe",
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "hyraut": {
+    "nav": "Become a host",
+    "continue": "Continue",
+    "finish": "Finish"
+  }
+}

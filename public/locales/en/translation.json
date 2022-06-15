@@ -1,0 +1,20 @@
+{
+  "housingRequests": {
+    "nav": "Housing requests"
+  },
+  "landlords": {
+    "nav": "Landlords"
+  },
+  "hyra": {
+    "nav": "Request housing",
+    "heading": "Request housing",
+    "ingress": "Renting made easy all across Europe",
+    "myname": "Your name",
+    "companyPlaceholder": "Construction Company Ltd."
+  },
+  "hyraut": {
+    "nav": "Become a host",
+    "continue": "Continue",
+    "finish": "Finish"
+  }
+}
